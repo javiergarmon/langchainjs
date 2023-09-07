@@ -3,9 +3,6 @@
   "version": "0.0.145",
   "description": "Typescript bindings for langchain",
   "type": "module",
-  "engines": {
-    "node": ">=18"
-  },
   "main": "./index.js",
   "types": "./index.d.ts",
   "files": [
